@@ -1,7 +1,9 @@
 # DDSP-Gugak
 
 ## Model
-We used [PyTorch implementation](https://github.com/sweetcocoa/ddsp-pytorch) by Jongho Choi and Sungho Lee of DDSP ([paper](https://arxiv.org/abs/2001.04643)) for training and testing.
+We applied [Differentiable Digital Signal Processing (Engel et al. 2020)](https://arxiv.org/abs/2001.04643) to Gugak domain.
+
+We used [PyTorch implementation](https://github.com/sweetcocoa/ddsp-pytorch) by Jongho Choi and Sungho Lee, and acquired Gugak dataset from [Gugak digitaleum](http://www.gugak.or.kr/digitaleum) under [Korea Open Government License](https://www.kogl.or.kr).
 
 The model checkpoints are available at [our google drive folder](https://drive.google.com/drive/folders/1SdbgJ4AD_TUVhrskwQU6cenV1_tRbaM1?usp=sharing).
 
