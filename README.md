@@ -1,6 +1,7 @@
 # DDSP-Gugak
 
 We used [PyTorch implementation](https://github.com/sweetcocoa/ddsp-pytorch) of DDSP for training and testing.
+
 original authors :
 Jongho Choi (sweetcocoa@snu.ac.kr, BS Student @ Seoul National Univ.)
 Sungho Lee (dlfqhsdugod1106@gmail.com, BS Student @ Postech.)
