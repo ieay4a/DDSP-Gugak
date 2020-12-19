@@ -12,12 +12,7 @@ The model checkpoints are available at [our google drive folder](https://drive.g
 ## Samples
 You can access the samples from our models at `sample` directory.
 
-Below is a demo audio mixed by Sangwoo Kim:
-
-<audio controls>
-    <source type="audio/mp3" src='https://raw.githubusercontent.com/ieay4a/DDSP-Gugak/main/sample/gugak_carol.mp3'>
-    <code>Your browser does not support the audio element.</code>
-</audio>
+Listen to the [demo audio](./sample/gugak_carol.mp3) mixed by Sangwoo Kim!
 
 ## Contact
 * Jaehyuk Jang ([jaejang0113@kaist.ac.kr](mailto:jaejang0113@kaist.ac.kr))
